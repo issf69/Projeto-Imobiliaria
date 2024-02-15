@@ -4,7 +4,7 @@
 }
 
 .cor_branca {
-    color: #B615AB;
+    color: #73AFE7;
 
 }
 
@@ -24,7 +24,7 @@
     margin-left: 20px; /* Mantém o espaço na esquerda */
     margin-right: 20px; /* Mantém o espaço na direita */
     font-weight: bold;
-    color: #B615AB; /* Define a cor do texto */
+    color: #73AFE7; /* Define a cor do texto */
     position: relative; /* Define a posição como relativa para permitir a animação */
 
 }
@@ -63,7 +63,7 @@
     border: 2px solid white;
     padding: 10px 20px;
     border-radius: 20px;
-    background-color: #B615AB;
+    background-color: #73AFE7;
     position: relative; /* Define o posicionamento como relativo */
     top: -20px; /* Move o botão para cima */
 }
@@ -123,5 +123,5 @@
     margin-top: 4%;
 }
 .container-fluid {
-    background-color: #B615AB; /* Cor de fundo padrão */
+    background-color: #73AFE7; /* Cor de fundo padrão */
 }
