@@ -1,5 +1,5 @@
 .sidebar {
-    background-color: #73AFE7;
+    background-color: #56070c;
     height: 100vh;
 }
 
@@ -63,7 +63,7 @@
     border: 2px solid white;
     padding: 10px 20px;
     border-radius: 20px;
-    background-color: #73AFE7;
+    background-color: #56070c;
     position: relative; /* Define o posicionamento como relativo */
     top: -20px; /* Move o botão para cima */
 }
@@ -80,7 +80,7 @@
 
 .titulo_area_cadastrar {
     font-size: 50px;
-    color: #73AFE7;
+    color: #56070c;
     margin-top: 15%;
     font-weight: bold;
 }
@@ -88,7 +88,7 @@
 .input_cadastrar {
     width: 60%;
     border: none;
-    background-color:#73AFE7;
+    background-color:#56070c;
     padding: 10px;
     outline: 0;
     font-size: 20px;
@@ -114,7 +114,7 @@
 }
 
 .btn_cadastrar {
-    background-color:#73AFE7;
+    background-color:#56070c;
     border: none;
     color: white;
     font-size: 30px;
