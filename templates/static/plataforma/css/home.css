@@ -1,0 +1,121 @@
+.bg_navbar {
+    background-color:#56070c;
+}
+
+.font_logo {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    display: inline;
+}
+
+.card_imoveis {
+    background-color: #56070c;
+    width: 20rem;
+    margin-top: 50px;
+    border-radius: 26px;
+    display: inline-block; /* Manter os cartões lado a lado */
+    margin-right: 20px; /* Espaçamento entre os cartões */
+}
+
+.card_imoveis:last-child {
+    margin-right: 0; /* Remover a margem direita do último cartão */
+}
+
+.img_capa_imovel {
+    width: 100%;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+}
+
+.informacoes_imoveis {
+    padding: 20px;
+    color: white;
+}
+
+.valor {
+    font-weight: bold;
+    border-bottom: 1px solid white;
+    margin-bottom: 10px; /* Adicionando margem inferior para separação */
+}
+
+.especificacao_endereco {
+    font-size: 16px; /* Reduzindo o tamanho da fonte para o endereço e a cidade */
+    margin-bottom: 10px; /* Adicionando margem inferior para separação */
+}
+
+.btn_filtrar {
+    border: none;
+    background-color: transparent;
+    border: 2px solid #56070c;
+    color: #56070c;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+.titulo_filtrar {
+    color: #56070c;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.btn_filtrar_modal {
+    border: none;
+    color: white;
+    background-color: #56070c;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.a_none {
+    color: white;
+}
+
+.a_none:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.titulo_especificacao {
+    color: #56070c;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.especificacao {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.btn_agendar_visita {
+    border: none;
+    background-color: #56070c;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px 10px;
+}
+
+.div_possivel_interesse {
+    text-align: left;
+    background-color:#56070c;
+    width: 20rem;
+    margin-top: 50px;
+    border-radius: 26px;
+
+
+}
+
+.btn_agendar {
+    border: none;
+    background-color: #56070c;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px 10px;
+}
+
+.btn_agendar:hover {
+    text-decoration: none;
+    color: white;
+}
