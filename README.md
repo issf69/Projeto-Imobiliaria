@@ -61,15 +61,15 @@ Projeto Sistema de Delivery promovido pela  [Pythonando](https://pythonando.com.
 
 
 <div align="center">
-<img src="https://github.com/issf69/Projeto-Imobiliaria/assets/105497075/ae128a75-3403-4665-9d8f-8ba9979cea3b" width="700px" />
+<img src="https://github.com/issf69/Projeto-Imobiliaria/assets/105497075/ae128a75-3403-4665-9d8f-8ba9979cea3b" width="500px" />
 </div>
 
 <div align="center">
-<img src="https://github.com/issf69/Projeto-Imobiliaria/assets/105497075/470737f2-bd53-4f6b-bbfd-78db03c40e36" />
+<img src="https://github.com/issf69/Projeto-Imobiliaria/assets/105497075/470737f2-bd53-4f6b-bbfd-78db03c40e36"width="500px" />
 </div>
 
 <div align="center">
-<img src="https://github.com/issf69/Projeto-Imobiliaria/assets/105497075/b8f6241f-3985-4e47-b42f-8e2bc7482e29" width="700px" />
+<img src="https://github.com/issf69/Projeto-Imobiliaria/assets/105497075/b8f6241f-3985-4e47-b42f-8e2bc7482e29" width="500px" />
 </div>
 
 
@@ -100,9 +100,11 @@ Projeto Sistema Para Delivery
 
 ## 🔖 Layout
 
+
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=b7ibBdfzAos">
-    <img src="https://img.youtube.com/vi/b7ibBdfzAos/0.jpg" alt="Assista ao vídeo">
+    <img src="https://img.youtube.com/vi/t_3GufrHcbg/0.jpg" alt="Assista ao vídeo">
   </a>
 </p>
 
