@@ -60,12 +60,16 @@ Projeto Sistema de Delivery promovido pela  [Pythonando](https://pythonando.com.
 
 
 
-
-
-
+<div align="center">
+<img src="https://github.com/issf69/Projeto-Imobiliaria/assets/105497075/ae128a75-3403-4665-9d8f-8ba9979cea3b" width="700px" />
+</div>
 
 <div align="center">
-<img src="https://github.com/issf69/Projeto_Delivery/assets/105497075/627cacc6-4e6d-4525-bfb8-435a21f04ecf" width="700px" />
+<img src="https://github.com/issf69/Projeto-Imobiliaria/assets/105497075/470737f2-bd53-4f6b-bbfd-78db03c40e36" />
+</div>
+
+<div align="center">
+<img src="https://github.com/issf69/Projeto-Imobiliaria/assets/105497075/b8f6241f-3985-4e47-b42f-8e2bc7482e29" width="700px" />
 </div>
 
 
